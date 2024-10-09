@@ -1,3 +1,8 @@
+# TRABAJO TEORÍA DE LA DECISIÓN 
+# (parte individual)
+
+# ENUNCIADOS
+
 
 # PROBLEMA 1 ----
 
@@ -9,7 +14,7 @@
 #                                 ----------------
 #                                 d1 | 30  50  20
 #                                 d2 | 40  60  10
-#                                 d3 | 20  70  30
+#                                 d3 | 10  70  30
 #                                 d4 | 50  40  40
 
 

@@ -1,3 +1,8 @@
+# TRABAJO TEORÍA DE LA DECISIÓN 
+# (parte individual)
+
+# RESOLUCIÓN DE LOS PROBLEMAS
+
 
 # PROBLEMA 1 ----
 
@@ -6,7 +11,7 @@
 # el caso desfavorable (costos).
 
 #                                      e1  e2  e3
-#                                 _______
+#                                 ----------------
 #                                 d1 | 30  50  20
 #                                 d2 | 40  60  10
 #                                 d3 | 10  70  30
@@ -91,8 +96,6 @@ names(sol_pid$AlternativaOptima) #La mejor decisión es la alternativa "d1".
 
 
 
-
-
 # PROBLEMA 2 ----
 
 # Una empresa manufacturera necesita seleccionar un proveedor de materiales para un 
@@ -145,7 +148,8 @@ criterio.Todos(tabla_2, favorable = T)
 # sería el Proveedor A. 
 
 # Por otro lado, el resto de criterios (Savage, Laplace y Punto Ideal) coinciden en
-# que la empresa debería elegir el Proveedor B para obtener el mejor rendimiento.
+# que la empresa debería elegir el Proveedor B para obtener el mejor rendimiento
+# en un escenario moderado.
 
 
 
