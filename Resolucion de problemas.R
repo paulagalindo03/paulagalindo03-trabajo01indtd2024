@@ -139,6 +139,13 @@ tabla_2
 
 criterio.Todos(tabla_2, favorable = T)
 
+# Podemos ver que según el criterio utilizado aparecen distintas alternativas 
+# óptimas. Para los criterios de Wald y Hurwicz la mejor alternativa será optar por 
+# el Proveedor C, mientras que el criterio optimista indica que la mejor alternativa 
+# sería el Proveedor A. 
+
+# Por otro lado, el resto de criterios (Savage, Laplace y Punto Ideal) coinciden en
+# que la empresa debería elegir el Proveedor B para obtener el mejor rendimiento.
 
 
 
