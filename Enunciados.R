@@ -1,7 +1,7 @@
 # TRABAJO TEORÍA DE LA DECISIÓN 
 # (parte individual)
 
-# ENUNCIADOS
+# ENUNCIADOS DE LOS PROBLEMAS
 
 
 # PROBLEMA 1 ----
