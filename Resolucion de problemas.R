@@ -60,7 +60,6 @@ names(sol_pid$AlternativaOptima) #La mejor decisión es la alternativa "d4".
 
 
 
-
 ## CASO DESFAVORABLE (costos) ----
 
 ### Criterio pesimista (Wald) ----
